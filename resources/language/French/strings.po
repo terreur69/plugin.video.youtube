@@ -39,7 +39,7 @@ msgstr "Mot de passe"
 
 msgctxt "#30009"
 msgid "Always ask for the video quality"
-msgstr ""
+msgstr "Toujours demander pour la qualité de la vidéo"
 
 msgctxt "#30010"
 msgid "Video Quality"
@@ -399,15 +399,15 @@ msgstr "Le streaming rtmpe n'est pas supporté"
 
 msgctxt "#30543"
 msgid "Refresh"
-msgstr ""
+msgstr "actualiser"
 
 msgctxt "#30544"
 msgid "More Links from the description"
-msgstr ""
+msgstr "Liens de la description"
 
 msgctxt "#30545"
 msgid "No further links found."
-msgstr ""
+msgstr "Aucun autre lien trouvé."
 
 msgctxt "#30546"
 msgid "Please log in twice!"
@@ -415,12 +415,12 @@ msgstr ""
 
 msgctxt "#30547"
 msgid "You must enable two applications so that YouTube is functioning properly."
-msgstr ""
+msgstr "Vous devez activer deux applications de sorte que YouTube fonctionne correctement."
 
 msgctxt "#30548"
 msgid "More..."
-msgstr ""
+msgstr "Plus..."
 
 msgctxt "#30549"
 msgid "No videos streams found"
-msgstr ""
+msgstr "Aucun flux de vidéos trouvées"
